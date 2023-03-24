@@ -5,3 +5,4 @@ media.mediadrmservice.enable=true
 # Graphics
 ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
+debug.sf.auto_latch_unsignaled=true
