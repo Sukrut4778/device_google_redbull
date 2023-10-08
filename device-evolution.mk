@@ -5,7 +5,7 @@
 #
 
 # Lineage Health
-include hardware/google/pixel/lineage_health/device.mk
+#include hardware/google/pixel/lineage_health/device.mk
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-evolution
